@@ -5,7 +5,7 @@
 * currently learning OI (Olympic Informatics Competition). 💻💻💻
 * The Open-Source Enthusiast. 🚀🚀🚀
 
-
+more project in: [my Gitee](https://gitee.com/mrxzx)
 
 ### Tech Stack
 
