@@ -1,6 +1,5 @@
 ### I'm ZhuoEr Liu
 
-* A student from Chengdu No.7 Wanda High School. 👋👋👋
 * currently living in Chengdu, China. 🌱🌱🌱
 * currently learning OI (Olympic Informatics Competition). 💻💻💻
 * The Open-Source Enthusiast. 🚀🚀🚀
