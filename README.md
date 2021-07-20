@@ -1,4 +1,4 @@
-### I'm ZhuoEr Liu 🪐
+### I'm ZhuoEr Liu 🇨🇳
 
 * currently living in Chengdu, China. 🌱🌱🌱
 * currently learning OI (Olympic Informatics Competition). 💻💻💻
