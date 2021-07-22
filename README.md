@@ -13,6 +13,6 @@
 ### Interesting Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrxiaozhuox&theme=material-palenight&hide=html,css&count_private=true&show_icons=true&hide_border=true&layout=compact&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrxiaozhuox&count_private=true&show_icons=true&theme=material-palenight&include_all_commits=true&hide_border=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrxiaozhuox&theme=buefy&hide=html,css&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrxiaozhuox&count_private=true&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true"/>
 </p>
