@@ -10,6 +10,8 @@
 - software development: Electron, Qt ;
 - database system: MySQL, Mongo, Redis, Dorea(self-innovate) ;
 
+My Blog Site: [https://blog.wwsg18.com](https://blog.wwsg18.com)
+
 ### Interesting Stats
 
 <p align="center">
