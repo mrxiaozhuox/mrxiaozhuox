@@ -8,7 +8,7 @@
 
 - web development: PHP, Deno, Node, Python, Vue, Typescript ;
 - software development: Electron, Qt ;
-- database system: MySQL, Mongo, Redis, Dorea(self-innovate) ;
+- database system: MySQL, Mongo, Redis ;
 
 My Blog Site: [https://blog.wwsg18.com](https://blog.wwsg18.com)
 
