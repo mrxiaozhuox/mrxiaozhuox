@@ -1,7 +1,6 @@
 ### I'm ZhuoEr Liu 👽
 
 * currently living in Chengdu, China. 🌱🌱🌱
-* currently learning OI (Olympic Informatics Competition). 💻💻💻
 * The Open-Source Enthusiast. 🚀🚀🚀
 * I am a high school student. 💯💯💯
 
