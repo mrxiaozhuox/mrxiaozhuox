@@ -2,7 +2,7 @@
 
 * currently living in Chengdu, China. 🌱🌱🌱
 * The Open-Source Enthusiast. 🚀🚀🚀
-* I am a high school student. 💯💯💯
+* I am a high school student.(7zwd) 💯💯💯
 
 ### Tech Stack
 
