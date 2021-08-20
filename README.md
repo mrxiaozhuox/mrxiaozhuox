@@ -10,7 +10,7 @@
 - software development: Electron, Qt ;
 - database system: MySQL, Mongo, Redis ;
 
-My Blog: [https://blog.wwsg18.com](https://blog.wwsg18.com)
+More Info: [https://mrxzx.info](https://mrxzx.info)
 
 ### Interesting Stats
 
