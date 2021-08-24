@@ -10,7 +10,7 @@
 - software development: Electron, Qt ;
 - database system: MySQL, Mongo, Redis ;
 
-More Info: [mrxzx.info](https://mrxzx.info/)
+More Info: [https://mrxzx.info/](https://mrxzx.info/)
 
 ### Interesting Stats
 
