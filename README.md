@@ -7,9 +7,9 @@
 
 ### Tech Stack
 
-- web development: PHP, Deno, Node, Python, Vue, Typescript ;
-- software development: Electron, Qt ;
-- database system: MySQL, Mongo, Redis ;
+- web development: PHP, Deno, Node, Python, Vue, Typescript
+- software development: Electron, Qt
+- database system: MySQL, Mongo, Redis
 
 More Info: [https://mrxzx.info/](https://mrxzx.info/)
 
