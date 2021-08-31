@@ -5,6 +5,7 @@
 * I am a high school student. 💯💯💯
 * ChengDu No.7 Wanda High School (International Center). 🌏🌏🌏
 
+
 ### Tech Stack
 
 - web development: PHP, Deno, Node, Python, Vue, Typescript
@@ -12,6 +13,7 @@
 - database system: MySQL, Mongo, Redis
 
 More Info: [https://mrxzx.info/](https://mrxzx.info/)
+
 
 ### Interesting Stats
 
