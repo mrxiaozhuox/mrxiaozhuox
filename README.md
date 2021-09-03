@@ -15,7 +15,7 @@
 More Info: [https://mrxzx.info/](https://mrxzx.info/)
 
 
-### Some Info
+<!-- ### Some Info -->
 
 <p align="center">
 <img src="https://www.codewars.com/users/mrxiaozhuox/badges/large"/>
