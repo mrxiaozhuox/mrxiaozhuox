@@ -1,4 +1,4 @@
-### I'm ZhuoEr Liu 👽
+### I'm ZhuoEr Liu 🥇
 
 * currently living in Chengdu, China. 🌱🌱🌱
 * The Open-Source Enthusiast. 🚀🚀🚀
@@ -15,7 +15,6 @@
 More Info: [https://mrxzx.info/](https://mrxzx.info/)
 
 
-<!-- ### Some Info -->
 
 <p align="center">
 <img src="https://www.codewars.com/users/mrxiaozhuox/badges/large"/>
