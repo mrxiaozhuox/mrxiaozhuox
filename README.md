@@ -10,7 +10,6 @@
 
 - web development: PHP, Deno, Python, Vue, Typescript, Golang
 - software development: Electron, Qt
-- database system: MySQL, Mongo, Redis
 
 My Home Page: [https://mrxzx.info/](https://mrxzx.info/)
 
