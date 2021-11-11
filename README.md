@@ -8,8 +8,8 @@
 
 ### Tech Stack
 
-- web development: PHP, Deno, Python, Vue, Typescript, Golang
-- software development: Electron, Qt
+- Web Development: PHP, Deno, Python, Vue, Typescript, Golang
+- Software Development: Electron, Qt
 
 My Home Page: [https://mrxzx.info/](https://mrxzx.info/)
 
