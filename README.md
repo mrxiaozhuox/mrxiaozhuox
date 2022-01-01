@@ -9,7 +9,7 @@
 
 ### Tech Stack
 
-- Web Development: PHP, Deno, Python, Vue, Typescript, Golang
+- Web Development: PHP, Python, Vue, Typescript, Golang
 - Software Development: Electron
 
 My Home Page: [https://mrxzx.info/](https://mrxzx.info/)
