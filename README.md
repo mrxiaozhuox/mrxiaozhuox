@@ -10,7 +10,7 @@
 ### Tech Stack
 
 - Web Development: PHP, Python, Vue, Typescript, Golang
-- Software Development: Electron
+- Software Development: Electron, Dioxus
 
 My Home Page: [https://mrxzx.info/](https://mrxzx.info/)
 
