@@ -5,7 +5,7 @@
 * currently living in Chengdu, China. 🌱🌱🌱
 * The Open-Source Enthusiast. 🚀🚀🚀
 * I am a high school student. 💯💯💯
-* ChengDu No.7 Wanda High School (International Center). 🌏🌏🌏
+* ChengDu No.7 Wanda High School. 🌏🌏🌏
 
 ### Tech Stack
 
