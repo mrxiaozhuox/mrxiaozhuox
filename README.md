@@ -13,7 +13,7 @@
 * [Dioxus](https://dioxuslabs.com) development team member.
 * [DioxusChina](https://dioxus.cn) commuity creator.
 * [Rustt](https://rustt.org) group member.
-* [Dorea Database](https://dorea.mrxzx.info) author.
+* [DoreaDB](https://dorea.mrxzx.info) project author.
 
 ---
 
