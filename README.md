@@ -11,8 +11,8 @@
 ### I'm work on
 
 * [Dioxus](https://dioxuslabs.com) development team member.
-* [DioxusChina](https://dioxus.cn) commuity creator.
-* [Rustt](https://rustt.org) group member.
+* [DioxusChina](http://www.dioxus.cn) commuity creator.
+* [Rustt](https://rustt.org) translation team member.
 * [DoreaDB](https://dorea.mrxzx.info) project author.
 
 ---
