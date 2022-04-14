@@ -7,8 +7,8 @@
 ### I'm YuKun Liu 🥇
 
 * currently living in Chengdu, China. 🌱🌱🌱
-* The Open-Source Enthusiast. 🚀🚀🚀
-* I am a high school student. 💯💯💯
+* a fanatical open-source enthusiast. 🚀🚀🚀
+* a high school student. 💯💯💯
 
 ### 
 
