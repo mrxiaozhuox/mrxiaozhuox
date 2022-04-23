@@ -17,7 +17,7 @@
 * [Dioxus](https://dioxuslabs.com) development team member.
 * [DioxusChina](http://www.dioxus.cn) commuity creator.
 * [Rustt](https://rustt.org) translation team member.
-* [DoreaDB](https://dorea.mrxzx.info) author.
+* [Dorea DataBase](https://dorea.mrxzx.info) author.
 
 ---
 
