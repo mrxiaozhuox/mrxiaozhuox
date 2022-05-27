@@ -8,7 +8,6 @@
 
 * currently living in Chengdu, China. 🌱🌱🌱
 * a fanatical open-source enthusiast. 🚀🚀🚀
-* a high school student. 💯💯💯
 
 ### 
 
