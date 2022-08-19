@@ -6,7 +6,8 @@
 
 ### I'm YuKun Liu
 
-* currently living in Chengdu, China. 🌱🌱🌱
+* come from Chengdu, China. 🌱🌱🌱
+* currently living in San Jose, CA. 🔰🔰🔰
 * a fanatical open-source enthusiast. 🚀🚀🚀
 
 ### 
