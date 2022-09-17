@@ -15,7 +15,7 @@
 ### I'm work for
 
 * [Dioxus](https://dioxuslabs.com) development team member.
-* [TeacherPod](https://github.com/commune-org/teacher-pod) full-stack developer [WIP].
+* [TeacherPod](https://github.com/commune-org/teacher-pod) full-stack developer.
 * [DioxusChina](http://www.dioxus.cn) commuity creator.
 * [Rustt](https://rustt.org) team member.
 * [DoreaDB](https://dorea.mrxzx.info) author.
