@@ -18,7 +18,7 @@
 * [TeacherPod](https://github.com/commune-org/teacher-pod) full-stack developer.
 * [DioxusChina](http://www.dioxus.cn) commuity creator.
 * [Rustt](https://rustt.org) team member.
-* [DoreaDB](https://dorea.mrxzx.info) author.
+* [DoreaDB](https://dorea.mrxzx.info) project author.
 
 ---
 
