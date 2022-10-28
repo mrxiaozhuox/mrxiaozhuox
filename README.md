@@ -19,6 +19,7 @@
 * [DioxusChina](http://www.dioxus.cn) commuity creator.
 * [Rustt](https://rustt.org) team member.
 * [DoreaDB](https://dorea.mrxzx.info) project author.
+* [LyApi](https://gitee.com/mrxzx/LyApi) project author.
 
 ---
 
