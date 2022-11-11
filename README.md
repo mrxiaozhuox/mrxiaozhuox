@@ -9,7 +9,6 @@
 * come from Chengdu, China. 🌱🌱🌱
 * currently living in San Jose, CA. 🔰🔰🔰
 * a fanatical open-source enthusiast. 🚀🚀🚀
-* a student 📖📖📖
 
 ### 
 
