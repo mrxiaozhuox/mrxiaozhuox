@@ -19,6 +19,7 @@
 * [TeacherPod](https://github.com/commune-org/teacher-pod) full-stack developer.
 * [DioxusChina](http://www.dioxus.cn) commuity creator.
 * [Rustt](https://rustt.org) team member.
+* [Salvo](https://salvo.rs) team member.
 * [DoreaDB](https://dorea.mrxzx.info) project author.
 * [LyApi](https://gitee.com/mrxzx/LyApi) project author.
 
