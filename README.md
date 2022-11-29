@@ -1,4 +1,4 @@
-![image](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+<!-- ![image](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) -->
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=6000&lines=Rust+%7C+Python+%7C+PHP+%7C+Go+Developer"></img>
