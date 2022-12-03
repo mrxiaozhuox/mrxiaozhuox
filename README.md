@@ -9,7 +9,7 @@
 * come from Chengdu, China. 🌱🌱🌱
 * currently living in San Jose, CA. 🔰🔰🔰
 * a fanatical open-source enthusiast. 🚀🚀🚀
-* studying at SJSU language program 📖📖📖 
+* studying at SJSU 📖📖📖 
  
 ### 
 
