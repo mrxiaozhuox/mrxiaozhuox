@@ -30,6 +30,3 @@
   
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrxiaozhuox&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide_border=true"/>
 </p>
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=mrxiaozhuox&theme=github"/>
-</p>
