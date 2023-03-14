@@ -9,9 +9,12 @@
 * come from Chengdu, China. 🌱🌱🌱
 * currently living in San Jose, CA. 🔰🔰🔰
 * a fanatical open-source enthusiast. 🚀🚀🚀
-* studying at SJSU 📖📖📖 
  
-### 
+### Education
+
+* ChengDu No.7 Wanda High School - International Department
+* San Jose State University - International Gateway Program
+* San Jose State University - Computer Engineering
 
 ### I'm work for
 
