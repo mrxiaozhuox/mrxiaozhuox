@@ -26,7 +26,6 @@
 * [DoreaDB](https://dorea.mrxzx.info) project author.
 * [LyApi](https://gitee.com/mrxzx/LyApi) project author.
 * [Karaty](https://karaty.mrxzx.info) project author.
-* [ShakeShake](https://www.shakeshake.io/) backend manager & website developer.
 
 ---
 
