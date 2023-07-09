@@ -26,7 +26,7 @@
 * [DoreaDB](https://dorea.mrxzx.info) project author.
 * [LyApi](https://gitee.com/mrxzx/LyApi) project author.
 * [Karaty](https://karaty.mrxzx.info) project author.
-* [Dioscript](https://github.com/mrxiaozhuox/dioscript) programming language.
+* [Dioscript](https://github.com/mrxiaozhuox/dioscript) project author.
 
 ---
 
