@@ -16,7 +16,7 @@
 * San Jose State University - International Gateway Program
 * San Jose State University - Computer Engineering
 
-### I'm work for
+### I'm working for
 
 * [Dioxus](https://dioxuslabs.com) development team member.
 * [Salvo](https://salvo.rs) team member.
