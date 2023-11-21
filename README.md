@@ -7,7 +7,7 @@
 ### I'm YuKun Liu
 
 * come from Chengdu, China. 🌱🌱🌱
-* currently living in San Jose, CA. 🔰🔰🔰
+* currently living in Irvine, CA. 🔰🔰🔰
 * a fanatical open-source enthusiast. 🚀🚀🚀
  
 ### Education
