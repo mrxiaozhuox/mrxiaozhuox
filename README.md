@@ -19,16 +19,14 @@
 
 ### I'm working for
 
-* [Dioxus](https://dioxuslabs.com) development team member.
+* [Dioxus-CLI](https://dioxuslabs.com) contributor.
 * [Salvo](https://salvo.rs) team member.
 * [Salvo CLI](https://github.com/salvo-rs/salvo-cli) contributor.
-* [TeacherPod](https://github.com/commune-org/teacher-pod) full-stack developer.
 * [DioxusChina](http://www.dioxus.cn) commuity creator.
 * [Rustt](https://rustt.org) team member.
 * [DoreaDB](https://dorea.mrxzx.info) project author.
 * [LyApi](https://gitee.com/mrxzx/LyApi) project author.
 * [Karaty](https://karaty.mrxzx.info) project author.
-* [Dioscript](https://github.com/mrxiaozhuox/dioscript) project author.
 
 ---
 
