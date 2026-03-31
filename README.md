@@ -15,7 +15,6 @@
 * ChengDu No.7 Wanda High School
 * San Jose State University - International Gateway Program
 * San Jose State University - Computer Engineering
-* Irvine Valley College - Computer Sciense
 
 ### I'm working for
 
